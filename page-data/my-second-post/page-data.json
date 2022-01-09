@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/my-second-post/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Welcome to Testkit"}},"markdownRemark":{"id":"e88a5e2c-4c78-5e55-bf27-a84081a39597","excerpt":"Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from\nchicken eggs, though the taste and texture…","html":"<p>Wow! I love blogging so much already.</p>\n<p>Did you know that “despite its name, salted duck eggs can also be made from\nchicken eggs, though the taste and texture will be somewhat different, and the\negg yolk will be less rich.”?\n(<a href=\"https://en.wikipedia.org/wiki/Salted_duck_egg\">Wikipedia Link</a>)</p>\n<p>Yeah, I didn’t either.</p>","frontmatter":{"title":"My Second Post!","date":"May 06, 2015","description":null}},"previous":null,"next":{"fields":{"slug":"/new-beginnings/"},"frontmatter":{"title":"New Beginnings"}}},"pageContext":{"id":"e88a5e2c-4c78-5e55-bf27-a84081a39597","previousPostId":null,"nextPostId":"8ddf591f-5576-5914-af8f-ef2734d92a36"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
