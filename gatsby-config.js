@@ -1,15 +1,15 @@
 module.exports = {
   pathPrefix: `/blog-test`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Welcome to Testkit`,
     author: {
-      name: `Kyle Mathews`,
+      name: `John Doe`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A starter blog template demonstrating QA test cases.`,
+    siteUrl: `https://tunacetin.github.io/blog-test/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `tunacetin`,
     },
   },
   plugins: [
